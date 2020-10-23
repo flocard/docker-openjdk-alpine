@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:3.12
 
 # A few reasons for installing distribution-provided OpenJDK:
 #
