@@ -10,6 +10,7 @@ FROM alpine:3.14
 #     For some sample build times, see Debian's buildd logs:
 #       https://buildd.debian.org/status/logs.php?pkg=openjdk-8
 
+
 # Default to UTF-8 file.encoding
 ENV LANG C.UTF-8
 
